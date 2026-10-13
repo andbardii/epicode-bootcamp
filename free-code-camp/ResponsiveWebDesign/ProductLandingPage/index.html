@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header id="header">
+        <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png" alt="logo" id="header-img">
+        <nav id="navbar">
+            <a class="nav-link" href="#Features">Features</a>
+            <a class="nav-link" href="#How_It_Works">How It Works</a>
+            <a class="nav-link" href="#Pricing">Pricing</a>
+        </nav>
+
+    </header>
+
+    <main id="main">
+        <span id="Features" class="section">
+            <h1>Features</h1>
+            <p class="t-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, veritatis velit neque incidunt consequuntur, quos reiciendis, consectetur dolorem facilis expedita molestias omnis accusantium odit aliquid rerum ut error consequatur voluptatem.</p>
+        </span>
+        <span id="How_It_Works" class="section">
+            <h1>How It Works</h1>
+            <p class="t-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, veritatis velit neque incidunt consequuntur, quos reiciendis, consectetur dolorem facilis expedita molestias omnis accusantium odit aliquid rerum ut error consequatur voluptatem.</p>
+            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/y8Yv4pnO7qc?si=ztspNXESYqu5BHML" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </span>
+        <span id="Pricing" class="section">
+            <h1>Pricing</h1>
+            <p class="t-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, veritatis velit neque incidunt consequuntur, quos reiciendis, consectetur dolorem facilis expedita molestias omnis accusantium odit aliquid rerum ut error consequatur voluptatem.</p>
+            <div id="cards">
+                <div class="card">
+                    <b class="t-center">90$</b>
+                    <p class="t-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button class="buy-btn">BUY</button>
+                </div>
+                <div class="card ml-small">
+                    <b class="t-center">110$</b>
+                    <p class="t-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button class="buy-btn">BUY</button>
+                </div>
+                <div class="card ml-small">
+                    <b class="t-center">300$</b>
+                    <p class="t-center">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button class="buy-btn">BUY</button>
+                </div>
+            </div>
+            <h2>Contact Us!</h2>
+            <form id="form">
+                <input type="text" placeholder="Your Name" id="name" name="name">
+                <input type="email" placeholder="yourname@example.com" id="email" name="email">
+                <input type="number" placeholder="3566930592" id="phone" name="phone">
+                <textarea name="content" id="content" cols="30" rows="10"></textarea>
+                <input type="submit" id="submit">
+            </form>
+        </span>
+    </main>
+    <script>
+        document.getElementById("form").addEventListener("submit", function(event) {
+            // Impedisci l'invio del modulo predefinito
+            event.preventDefault();
+
+            // Raccogli i dati del modulo
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var phone = document.getElementById("phone").value;
+            var content = document.getElementById("content").value;
+
+            // Costruisci l'URL della pagina statica
+            var staticPageURL = "https://www.freecodecamp.com/email-submit";
+
+            // Invia l'email alla pagina statica
+            window.location.href = staticPageURL + "?name=" + encodeURIComponent(name) + "&email=" + encodeURIComponent(email) + "&phone=" + encodeURIComponent(phone) + "&content=" + encodeURIComponent(content);
+        });
+    </script>
+</body>
+</html>
