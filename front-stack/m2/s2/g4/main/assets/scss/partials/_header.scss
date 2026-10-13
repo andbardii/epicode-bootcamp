@@ -1,0 +1,8 @@
+nav{
+    background-image: linear-gradient(black, $body-color);
+    a{
+        &:hover{
+            color: white !important;
+        }
+    }
+}

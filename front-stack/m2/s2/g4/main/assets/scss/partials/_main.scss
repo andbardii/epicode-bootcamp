@@ -1,0 +1,12 @@
+#main{
+    img{
+        box-shadow: 0px 0px 18px rgb(0,0,0) !important;
+        position: relative !important;
+        cursor: pointer !important;
+        &:hover{
+            position: relative !important;
+            scale: 1.2 !important;
+            z-index: 1 !important;
+        }
+    }
+}
