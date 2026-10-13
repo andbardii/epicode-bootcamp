@@ -31,6 +31,6 @@ Servizi utilizzati: [Twelve Data](https://rapidapi.com/twelvedata/api/twelve-dat
 
 ## Cronologia e licenza
 
-Progetto originariamente ospitato in `andbardii/capstone-hodle`, ora integrato in questa raccolta. La repository separata è stata eliminata dopo la migrazione. La cronologia originale è conservata nella raccolta; il tag `migration/capstone-hodle` identifica l’ultimo commit importato.
+Progetto originariamente ospitato in `andbardii/capstone-hodle`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/capstone-hodle` identifica l’ultimo commit importato.
 
 Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
