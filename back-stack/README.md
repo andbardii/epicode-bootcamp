@@ -14,6 +14,6 @@ Le cartelle `Lezione_*` raccolgono le lezioni; le altre contengono progetti e pr
 
 ## Cronologia e licenza
 
-Progetto originariamente ospitato in [`andbardii/back-stack`](https://github.com/andbardii/back-stack), ora archivio storico. La cronologia originale è conservata nella raccolta; il tag `migration/back-stack` identifica l’ultimo commit importato.
+Progetto originariamente ospitato in `andbardii/back-stack`, ora integrato in questa raccolta. La repository separata è stata eliminata dopo la migrazione. La cronologia originale è conservata nella raccolta; il tag `migration/back-stack` identifica l’ultimo commit importato.
 
-Vedi la [documentazione della migrazione](../MIGRATION.md) e la [licenza del progetto](LICENSE).
+Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).

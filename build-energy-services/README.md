@@ -29,6 +29,6 @@ Configura un database PostgreSQL locale e le impostazioni del backend prima dell
 
 ## Cronologia e licenza
 
-Progetto originariamente ospitato in [`andbardii/build-energy-services`](https://github.com/andbardii/build-energy-services), ora archivio storico. La cronologia originale è conservata nella raccolta; il tag `migration/build-energy-services` identifica l’ultimo commit importato.
+Progetto originariamente ospitato in `andbardii/build-energy-services`, ora integrato in questa raccolta. La repository separata è stata eliminata dopo la migrazione. La cronologia originale è conservata nella raccolta; il tag `migration/build-energy-services` identifica l’ultimo commit importato.
 
-Vedi la [documentazione della migrazione](../MIGRATION.md) e la [licenza del progetto](LICENSE).
+Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
