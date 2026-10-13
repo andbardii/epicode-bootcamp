@@ -1,10 +1,34 @@
-# build-energy-services
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white")
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+# Energy Services
+
+Progetto full stack per la gestione di una società di servizi energetici.
+
+Parte di [**EPICODE Bootcamp**](../README.md), nella cartella `build-energy-services/`.
+
+## Tecnologie
+
+Angular 16, Java 17, Spring Boot, PostgreSQL.
+
+## Struttura e utilizzo
+
+Backend: [`energy/`](energy/). Frontend: [`energyfront/`](energyfront/). La collection Postman è in [`EnergyServices.postman_collection.json`](EnergyServices.postman_collection.json).
+
+Dalla radice della raccolta, in due terminali:
+
+```sh
+cd build-energy-services/energy
+sh mvnw spring-boot:run
+```
+
+```sh
+cd build-energy-services/energyfront
+npm ci
+npm start
+```
+
+Configura un database PostgreSQL locale e le impostazioni del backend prima dell’avvio.
+
+## Cronologia e licenza
+
+Progetto originariamente ospitato in [`andbardii/build-energy-services`](https://github.com/andbardii/build-energy-services), ora archivio storico. La cronologia originale è conservata nella raccolta; il tag `migration/build-energy-services` identifica l’ultimo commit importato.
+
+Vedi la [documentazione della migrazione](../MIGRATION.md) e la [licenza del progetto](LICENSE).

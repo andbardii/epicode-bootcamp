@@ -1,3 +1,5 @@
+> Parte di [**EPICODE Bootcamp**](../../../README.md) → [Front Stack](../../README.md). Percorso dalla radice della raccolta: `front-stack/m3/project/`. Esegui i comandi di questo documento da questa cartella.
+
 # Social Network Epibook
 
   Epibook è un social network dove potrai pubblicare contenuti di tipo testuale, immagini e video.

@@ -1,10 +1,27 @@
-![googbanner](https://github.com/andbardii/translate-angular-app/assets/126244632/b02a6857-b320-4152-8ae6-dbbb9a3ef719)
-## Main technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# Translate Angular App
 
-### External API
-- [Google Translate API](https://rapidapi.com/googlecloud/api/google-translate1/)
+Applicazione Angular per tradurre testi tramite un servizio di traduzione esterno.
+
+Parte di [**EPICODE Bootcamp**](../README.md), nella cartella `translate-angular-app/`.
+
+## Tecnologie
+
+Angular 16, TypeScript, Sass, Bootstrap.
+
+## Struttura e utilizzo
+
+Il frontend è in [`translate/`](translate/). Dalla radice della raccolta:
+
+```sh
+cd translate-angular-app/translate
+npm ci
+npm start
+```
+
+Configura le credenziali per [Google Translate API su RapidAPI](https://rapidapi.com/googlecloud/api/google-translate1/). Vedi anche il [README Angular](translate/README.md).
+
+## Cronologia e licenza
+
+Progetto originariamente ospitato in [`andbardii/translate-angular-app`](https://github.com/andbardii/translate-angular-app), ora archivio storico. La cronologia originale è conservata nella raccolta; il tag `migration/translate-angular-app` identifica l’ultimo commit importato.
+
+Vedi la [documentazione della migrazione](../MIGRATION.md) e la [licenza del progetto](LICENSE).

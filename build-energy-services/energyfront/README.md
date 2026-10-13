@@ -1,3 +1,5 @@
+> Parte di [**EPICODE Bootcamp**](../../README.md) → [Energy Services](../README.md). Percorso dalla radice della raccolta: `build-energy-services/energyfront/`. Esegui i comandi di questo documento da questa cartella.
+
 # Energyfront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.

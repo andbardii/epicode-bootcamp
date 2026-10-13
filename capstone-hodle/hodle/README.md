@@ -1,3 +1,5 @@
+> Parte di [**EPICODE Bootcamp**](../../README.md) → [HODLE — Capstone EPICODE](../README.md). Percorso dalla radice della raccolta: `capstone-hodle/hodle/`. Esegui i comandi di questo documento da questa cartella.
+
 # Hodle
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.

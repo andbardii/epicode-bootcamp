@@ -1,3 +1,5 @@
+> Parte di [**EPICODE Bootcamp**](../../README.md) → [Weather Angular App](../README.md). Percorso dalla radice della raccolta: `weather-angular-app/weather/`. Esegui i comandi di questo documento da questa cartella.
+
 ![Banner Weather Pot](https://github.com/andbardii/pot/assets/126244632/2827591a-35c9-4713-9a25-3cca7c82c09c)
 # Weather
 
