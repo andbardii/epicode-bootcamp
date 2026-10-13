@@ -12,8 +12,6 @@ HTML, CSS, JavaScript.
 
 Apri [`index.html`](index.html) nel browser oppure servi questa cartella con un server statico locale. Stili e comportamento sono in [`style.css`](style.css) e [`main.js`](main.js).
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/linktree-clone`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/linktree-clone` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

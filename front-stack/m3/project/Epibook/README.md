@@ -1,5 +1,3 @@
-> Parte di [**EPICODE Bootcamp**](../../../../README.md) → [Front Stack](../../../README.md). Percorso dalla radice della raccolta: `front-stack/m3/project/Epibook/`. Esegui i comandi di questo documento da questa cartella.
-
 # Epibook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.

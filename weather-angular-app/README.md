@@ -20,8 +20,6 @@ npm start
 
 Configura le credenziali richieste dal servizio meteo prima di usare le chiamate API. Vedi anche il [README Angular](weather/README.md).
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/weather-angular-app`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/weather-angular-app` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

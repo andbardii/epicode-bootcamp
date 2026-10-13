@@ -22,8 +22,6 @@ npm ci
 npm start
 ```
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/build-week-back`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/build-week-back` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

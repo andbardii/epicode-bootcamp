@@ -20,8 +20,6 @@ npm start
 
 Configura le credenziali per [Google Translate API su RapidAPI](https://rapidapi.com/googlecloud/api/google-translate1/). Vedi anche il [README Angular](translate/README.md).
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/translate-angular-app`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/translate-angular-app` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

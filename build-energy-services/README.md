@@ -27,8 +27,6 @@ npm start
 
 Configura un database PostgreSQL locale e le impostazioni del backend prima dell’avvio.
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/build-energy-services`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/build-energy-services` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

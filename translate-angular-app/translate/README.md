@@ -1,5 +1,3 @@
-> Parte di [**EPICODE Bootcamp**](../../README.md) → [Translate Angular App](../README.md). Percorso dalla radice della raccolta: `translate-angular-app/translate/`. Esegui i comandi di questo documento da questa cartella.
-
 # Translate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.

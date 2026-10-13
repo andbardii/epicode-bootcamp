@@ -12,8 +12,6 @@ HTML, CSS, Sass, JavaScript, TypeScript, Angular.
 
 I materiali sono organizzati in `pre/`, `m1/`, `m2/` e `m3/`. Apri il singolo esercizio; per le app Angular entra nella cartella che contiene `package.json` e consulta il relativo README. Non esiste un comando di avvio unico per tutta la raccolta.
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/front-stack`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/front-stack` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

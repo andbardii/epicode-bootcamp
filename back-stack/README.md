@@ -12,8 +12,6 @@ Java, Spring Boot, PostgreSQL, Hibernate.
 
 Le cartelle `Lezione_*` raccolgono le lezioni; le altre contengono progetti e prove. Apri ciascun progetto separatamente. Per i progetti Maven esegui i comandi dalla cartella con `pom.xml`; configura il database locale quando previsto.
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/back-stack`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/back-stack` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

@@ -29,8 +29,6 @@ Configura PostgreSQL e le API esterne nel tuo ambiente. Per il primo avvio, prep
 
 Servizi utilizzati: [Twelve Data](https://rapidapi.com/twelvedata/api/twelve-data1), [Seeking Alpha](https://rapidapi.com/apidojo/api/seeking-alpha), [Alpha Vantage](https://rapidapi.com/alphavantage/api/alpha-vantage).
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/capstone-hodle`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/capstone-hodle` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).
